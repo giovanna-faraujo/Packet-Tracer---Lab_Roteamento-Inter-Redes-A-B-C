@@ -1,4 +1,4 @@
-# Laboratório de Roteamento Inter-VLANs e Arquitetura de Redes (Cisco Packet Tracer)
+# Laboratório de Roteamento Inter-VLANs e Arquitetura de Redes
 
 ## Visão Geral
 Este laboratório simula a infraestrutura de uma rede corporativa segmentada em sub-redes (Classes A, B e C), interconectadas por um roteador central. O objetivo é demonstrar conceitos fundamentais de arquitetura de redes, endereçamento IP e aplicação de políticas de segurança e controle de acesso para perfis Júnior de Cybersecurity/SOC.
