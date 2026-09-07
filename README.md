@@ -1,4 +1,4 @@
-# Interconexão e Roteamento de Redes Locais Multi-Classe no Cisco Packet Tracer
+# Roteamento de Redes Multi-Classe no Cisco Packet Tracer
 
 ## Resumo
 Implementação de topologia de redes no Cisco Packet Tracer para conectar e rotear o tráfego de dados entre três sub-redes corporativas isoladas (Classes A, B e C) através de um roteador central Cisco 2911.
